@@ -1,0 +1,14 @@
+{
+  "name": "SaltyBot",
+  "version": "1.0.0",
+  "description": "SaltyTissue's Bot",
+  "main": "bot.js",
+  "author": "VanillaGum",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+	"request": "2.81.0"
+  }
+}
